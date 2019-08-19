@@ -1,6 +1,7 @@
 # Golang_Training
 # Schedule can be change at any time as per finalized by authorized person
 
+```
 Day 1
     Installation
     Language Syntax
@@ -38,3 +39,4 @@ Day 10 and Day 11
 Day 12
     Library interactions (go through some library used in development)
 
+```
